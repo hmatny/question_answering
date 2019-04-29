@@ -1,5 +1,10 @@
 README
 ======
+### Files
+
+* SQuAD_w_Eval.ipynb: Code to fine-tune BERT for the squad dataset and evaluate the final model.
+* Anserini.ipynb: Code to run the end-to-end QA pipeline, including using Anserini to retrieve documents and using BERT to extract answers.
+
 
 ## Sources 
 * [BERT end-to-end](https://arxiv.org/pdf/1902.01718v1.pdf)
